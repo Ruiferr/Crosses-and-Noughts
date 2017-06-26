@@ -1,0 +1,53 @@
+html{
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+tr{
+	height: 70px;
+	background-color: black;
+}
+
+td{
+	width: 70px;
+}
+
+.container{
+	display: flex;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
+
+
+.restart{
+
+}
+
+.restart button{
+	padding: 1%;
+	margin-left: 5%;
+}
+
+.names{
+	float: left;
+	margin-left: 1.5%;
+}
+
+.container2{
+	width: 100%;
+    margin-left: 42.5%;
+}
